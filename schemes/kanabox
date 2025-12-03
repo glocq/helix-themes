@@ -40,8 +40,8 @@
 "markup.bold" = { modifiers = ["bold"] }
 "markup.italic" = { modifiers = ["italic"] }
 "markup.link.url" = { fg = "waveBlue2", modifiers = ["italic"] }
-"markup.link.label" = "waveAqua"
-"markup.link.text" = "waveAqua"
+"markup.link.label" = "waveAqua1"
+"markup.link.text" = "waveAqua1"
 "markup.quote" = "fujiGray"
 "markup.raw" = "carpYellow"
 
